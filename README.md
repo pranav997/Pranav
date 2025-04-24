@@ -4,10 +4,13 @@
 <p>Beyond academics, you can find me on a hike, playing cricket, or spending quality time with friends and family.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Python-00ADD8?style=for-the-badge&logo=physics&logoColor=white" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-007ACC?style=for-the-badge&logo=machine-learning&logoColor=white" />
   <img src="https://img.shields.io/badge/-Quantum%20Computing-6A0DAD?style=for-the-badge&logo=quantum-computing&logoColor=white" />
   <img src="https://img.shields.io/badge/-Condensed%20Matter-F97316?style=for-the-badge&logo=atom&logoColor=white" />
+  ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+  ![Pytorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
   </div>
 
 ## Find me elsewhere
