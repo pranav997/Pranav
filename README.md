@@ -10,14 +10,10 @@
   <img src="https://img.shields.io/badge/-Condensed%20Matter-F97316?style=for-the-badge&logo=atom&logoColor=white" />
   </div>
 
-## Interests
-- ⚛️ Quantum Computing
-- 💻 Machine Learning
-- 🔬 Condensed Matter
-- ✍️ Documenting thoughts through [blog posts](https://pranav997.github.io/projects/)
-
 ## Find me elsewhere
 - 📫 How to reach me: kaironp2@illinois.edu
 - :brain: I did my Masters in UBC under Prof. Roman Krems. I worked on equivariant quantum machine learning and classical machine learning applied to electron phonon problems.
 - :fox_face: I also have a [Scholar](https://scholar.google.com/citations?user=4D5oj3MAAAAJ)
 - ⚡ Fun fact: I'm an Indian guy who likes cricket.
+- ✍️ Documenting thoughts through [blog posts](https://pranav997.github.io/projects/)
+- 💬 Ask me about : Anything mentioned above, history, philosophy, politics :)
