@@ -1,8 +1,5 @@
 <h1 align="center">Hi there I'm Pranav Kairon 👋</h1>
-<h3>PhD Physics Student | Quantum Info | Condensed Matter | Machine learning </h3>
-<p align="center">at The University of Illinois Urbana Champaign</p>
-
-<p>My research lies at the intersection of machine learning, quantum computing, and condensed matter physics.</p>
+<h3>PhD Physics Student at UIUC </h3>
 
 <p>Beyond academics, you can find me on a hike, playing cricket, or spending quality time with friends and family.</p>
 
@@ -14,10 +11,13 @@
   </div>
 
 ## Interests
-- ⚛️ Quantum Phenomena
-- 💻 Machine Learning for Science
-- 🔬 Condensed Matter Physics
-- ✍️ Documenting thoughts through blog posts
+- ⚛️ Quantum Computing
+- 💻 Machine Learning
+- 🔬 Condensed Matter
+- ✍️ Documenting thoughts through [blog posts](https://pranav997.github.io/projects/)
 
 ## Find me elsewhere
 - 📫 How to reach me: kaironp2@illinois.edu
+- :brain: I did my Masters in UBC under Prof. Roman Krems. I worked on equivariant quantum machine learning and classical machine learning applied to electron phonon problems.
+- :fox_face: I also have a [Scholar](https://scholar.google.com/citations?user=4D5oj3MAAAAJ)
+- ⚡ Fun fact: I'm an Indian guy who likes cricket.
