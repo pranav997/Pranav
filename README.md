@@ -16,4 +16,4 @@
 - :fox_face: I also have a [Scholar](https://scholar.google.com/citations?user=4D5oj3MAAAAJ)
 - ⚡ Fun fact: I'm an Indian guy who likes cricket.
 - ✍️ Documenting thoughts through [blog posts](https://pranav997.github.io/projects/)
-- 💬 Ask me about : Anything mentioned above, history, philosophy, politics :)
+- 💬 Ask me about : Anything mentioned above, history, Punjabi music :)
